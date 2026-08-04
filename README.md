@@ -39,3 +39,43 @@ Daily Progress
 - VS Code
 - Git & GitHub
 - Ubuntu (WSL)
+Python Operators, Conditionals, Modules & Loops
+
+### Topics Practiced
+
+#### Operators
+- Arithmetic Operators
+- Relational (Comparison) Operators
+- Logical Operators
+- Bitwise Operators
+- Assignment Operators
+- Membership Operators
+- Solved practice problems using operators
+
+#### Conditional Statements
+- if statement
+- if-else statement
+- Nested conditions
+- Decision making using comparison and logical operators
+
+#### Python Modules
+- Importing modules
+- `math` module
+- `keyword` module
+- `random` module
+- `datetime` module
+
+#### Loops
+- while loop
+- while...else
+- Built a Number Guessing Game
+- for loop
+- Iteration over sequences
+- Loop practice problems
+
+### Key Learnings
+- Understood how different operators work and when to use them.
+- Practiced writing decision-making logic using `if-else`.
+- Learned how Python modules provide reusable functionality.
+- Gained confidence using `while` and `for` loops.
+- Built a simple guessing game to reinforce loop concepts.
