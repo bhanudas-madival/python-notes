@@ -79,3 +79,53 @@ Python Operators, Conditionals, Modules & Loops
 - Learned how Python modules provide reusable functionality.
 - Gained confidence using `while` and `for` loops.
 - Built a simple guessing game to reinforce loop concepts.
+Topics Practiced
+
+#### 🔁 Loops
+- `for` loop
+- Nested loops
+- Pattern printing problems
+- Logic building using loops
+
+#### ⏹️ Loop Control Statements
+- `break`
+- `continue`
+- `pass`
+
+#### 📝 Python Strings
+- Creating strings
+- Indexing & Negative Indexing
+- String Slicing
+- String Immutability
+- String Operations
+- Common String Methods:
+  - `capitalize()`
+  - `title()`
+  - `upper()`
+  - `lower()`
+  - `swapcase()`
+  - `count()`
+  - `find()`
+  - `index()`
+  - `startswith()`
+  - `endswith()`
+  - `format()`
+  - `isalnum()`
+  - `isalpha()`
+  - `isdigit()`
+  - `isidentifier()`
+  - `split()`
+  - `join()`
+  - `replace()`
+  - `strip()`
+
+### 💻 Practice
+- Solved loop-based programming problems
+- Practiced nested loop logic
+- Worked with common string manipulation techniques
+- Improved understanding of string indexing, slicing, and built-in methods
+
+### 🎯 Learning Outcome
+- Gained confidence in using loops for problem solving.
+- Learned how Python strings work and how to manipulate text efficiently.
+- Built a strong foundation for upcoming topics like Lists and Functions.
