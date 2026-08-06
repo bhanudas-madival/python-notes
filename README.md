@@ -129,3 +129,48 @@ Topics Practiced
 - Gained confidence in using loops for problem solving.
 - Learned how Python strings work and how to manipulate text efficiently.
 - Built a strong foundation for upcoming topics like Lists and Functions.
+Python - Loops & Strings
+
+#### ✅ Loops
+- Practiced `for` and `while` loops
+- Solved multiple loop-based problems
+- Learned nested loops and pattern-solving logic
+
+#### ✅ Loop Control Statements
+- `break` statement
+- `continue` statement
+- `pass` statement
+- Practiced real-world examples of each
+
+#### ✅ Strings
+- String creation
+- Indexing and negative indexing
+- String slicing
+- String immutability (editing & deleting)
+- String operations
+- Common string methods:
+  - `capitalize()`
+  - `title()`
+  - `upper()`
+  - `lower()`
+  - `swapcase()`
+  - `count()`
+  - `find()`
+  - `index()`
+  - `startswith()`
+  - `endswith()`
+  - `format()`
+  - `isalnum()`
+  - `isalpha()`
+  - `isdigit()`
+  - `isidentifier()`
+  - `split()`
+  - `join()`
+  - `replace()`
+  - `strip()`
+
+### 💻 Practice
+- Solved loop problems
+- Practiced nested loops
+- Practiced loop control statements
+- Performed hands-on exercises with string indexing, slicing, and common string methods
