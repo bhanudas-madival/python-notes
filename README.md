@@ -174,3 +174,25 @@ Python - Loops & Strings
 - Practiced nested loops
 - Practiced loop control statements
 - Performed hands-on exercises with string indexing, slicing, and common string methods
+Python String Practice
+
+### 📚 Topics Covered
+- Find the length of a string without using `len()`
+- Extract username from an email address
+- Count the frequency of a character in a string
+- Remove a specific character from a string
+- Check whether a string is a palindrome
+- Count the number of words without using `split()`
+- Convert a string to Title Case without using `title()`
+- Convert an integer to a string without using `str()`
+
+### 💻 Concepts Practiced
+- String indexing and slicing
+- Iterating through strings using loops
+- Conditional statements (`if`, `else`)
+- Character-by-character string processing
+- String concatenation
+- Algorithmic problem solving without relying on built-in functions
+
+### 🎯 Outcome
+Practiced solving common Python string interview problems by implementing each solution from scratch, improving understanding of string manipulation, loops, and logical thinking.
