@@ -196,3 +196,14 @@ Python String Practice
 
 ### 🎯 Outcome
 Practiced solving common Python string interview problems by implementing each solution from scratch, improving understanding of string manipulation, loops, and logical thinking.
+Python Lists
+
+- Learned Python list fundamentals and characteristics
+- Understood list memory/reference behavior
+- Practiced creating, accessing, updating and deleting list elements
+- Practiced append(), extend(), insert(), remove(), pop() and clear()
+- Practiced list operators and built-in functions
+- Practiced list traversal using item-wise and index-wise loops
+- Learned and practiced list comprehension
+- Practiced zip() function
+- Explored lists containing different types of Python objects
