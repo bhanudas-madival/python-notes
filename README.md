@@ -207,3 +207,43 @@ Python Lists
 - Learned and practiced list comprehension
 - Practiced zip() function
 - Explored lists containing different types of Python objects
+Python Tuples, Sets & Dictionaries
+Topics Practiced
+Tuples
+Tuple creation and indexing
+Accessing tuple elements
+Tuple immutability
+Tuple deletion
+Tuple operations and functions
+Lists vs Tuples
+Tuple unpacking
+zip()
+Sets
+Set creation and properties
+Adding and removing elements
+Set operations
+Set functions
+frozenset
+Set comprehension
+Dictionaries
+Dictionary creation
+Accessing key-value pairs
+Adding, updating and removing items
+Dictionary operations and functions
+Dictionary comprehension
+zip()
+Nested comprehension
+Practice
+Practiced tuple, set and dictionary operations with Python examples.
+Practiced immutability and modification limitations of tuples.
+Practiced set operations and unique-element handling.
+Practiced dictionary manipulation and key-value operations.
+Practiced tuple unpacking and zip().
+Practiced set, dictionary and nested comprehensions.
+Key Takeaways
+Tuple → ordered and immutable collection.
+Set → unordered collection of unique elements.
+Dictionary → key-value data structure.
+Comprehensions provide a concise way to create collections.
+zip() is useful for combining multiple iterables.
+Choosing the correct data structure depends on whether ordering, mutability, uniqueness, or key-value mapping is required.
