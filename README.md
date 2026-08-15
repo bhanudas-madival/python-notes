@@ -247,3 +247,36 @@ Dictionary → key-value data structure.
 Comprehensions provide a concise way to create collections.
 zip() is useful for combining multiple iterables.
 Choosing the correct data structure depends on whether ordering, mutability, uniqueness, or key-value mapping is required.
+
+Python Functions
+
+### 📚 Topics Learned & Practiced
+
+- Function definition and function calling
+- Function parameters and arguments
+- Types of arguments
+- `*args` and `**kwargs`
+- Function documentation using `help()` and `__doc__`
+- Function execution and memory behavior
+- `return` statement and functions without `return`
+- Variable scope — local and global
+- Nested functions
+- Functions as first-class citizens
+- Deleting and returning functions
+- Benefits of using functions
+- Lambda functions
+- Lambda vs normal functions
+- Higher-order functions
+- `map()`
+- `filter()`
+- `reduce()`
+
+### 🧪 Practice
+
+- Created and called custom functions
+- Practiced different types of arguments
+- Worked with `*args` and `**kwargs`
+- Practiced local/global variable scope
+- Created nested functions
+- Practiced lambda functions
+- Implemented higher-order functions using `map()`, `filter()`, and `reduce()`
