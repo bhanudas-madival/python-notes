@@ -280,3 +280,36 @@ Python Functions
 - Created nested functions
 - Practiced lambda functions
 - Implemented higher-order functions using `map()`, `filter()`, and `reduce()`
+Introduction
+0:00:00 Start
+3:27 Plan of the week
+
+✍️ Topic  -OOP -Theory
+6:23 PPT OOP
+8:21 OOP kya hota h?/ What is OOP?
+10:49 What is Object?
+20:14 Class & Object
+✍️
+31:47 Code- Banking Application
+32:19 Creating Atm Class
+40:00 ATM class Functionality
+42:21 Constructor (Special Function)
+56:58 Check Balance Function
+1:01:09 Withdraw Function
+1:07:50 Chat Doubts
+
+✍️
+1:09:47 Methods vs Function
+1:14:10 Class Diagram
+1:18:09 Magic Method/ Dunder Method
+1:22:12 When to use Constructor
+1:29:00 Doubt Clearance
+1:31:31 concept of - self
+1:45:18 Chat Doubts
+✍️
+1:46:00 Fraction Class
+1:53:51 _str_
+1:57:56 _add_
+2:03:37 _sub__, __mul__, __truediv_
+✍️
+2:09:00 Doubts Solve Session end
