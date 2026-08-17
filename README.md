@@ -313,3 +313,35 @@ Introduction
 2:03:37 _sub__, __mul__, __truediv_
 ✍️
 2:09:00 Doubts Solve Session end
+## OOP – Objects, References, Encapsulation & Static Members
+
+### Topics Learned & Practiced
+
+* Revised previous OOP concepts by solving practice problems.
+* Learned how objects access class attributes and instance attributes.
+* Practiced creating attributes from outside the class.
+* Understood **reference variables** and how multiple variables can refer to the same object.
+* Learned how Python passes object references to functions.
+* Practiced **mutability of objects** and how changes to mutable objects can affect the original object.
+* Learned **encapsulation** and how to control access to object data.
+* Practiced working with a **collection of objects**.
+* Learned about **static/class variables** shared across objects.
+* Learned and practiced **static methods** that belong to the class rather than a specific object.
+* Solved practical OOP problems to reinforce these concepts.
+
+### Key Concepts Practiced
+
+* Object Attribute Access
+* Attribute Creation
+* Reference Variables
+* Object References
+* Pass by Object Reference
+* Object Mutability
+* Encapsulation
+* Collection of Objects
+* Static/Class Variables
+* Static Methods
+
+### Practice Focus
+
+Focused on understanding how objects, references, mutability, and class-level members behave in Python through hands-on problem solving.
