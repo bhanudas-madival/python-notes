@@ -345,3 +345,59 @@ Introduction
 ### Practice Focus
 
 Focused on understanding how objects, references, mutability, and class-level members behave in Python through hands-on problem solving.
+## Python OOP — Class Relationships, Inheritance & Polymorphism
+
+### Topics Covered
+
+* Class Relationships
+* Aggregation (`Has-A` relationship)
+* Aggregation Class Diagram
+* Inheritance (`Is-A` relationship)
+* Inheritance class diagrams
+* What gets inherited in Python
+* Constructors in inheritance
+* Parent and child constructors
+* Accessing parent private attributes using getter methods
+* Method Overriding
+* `super()` keyword
+* `super()` with constructors
+* Using `super()` outside the class
+* Types of Inheritance:
+
+  * Single Inheritance
+  * Multilevel Inheritance
+  * Hierarchical Inheritance
+  * Multiple Inheritance
+  * Hybrid Inheritance
+* Diamond Problem in Multiple Inheritance
+* Polymorphism
+* Method Overriding as runtime polymorphism
+* Method Overloading concepts
+* Operator Overloading
+* Practice questions on Inheritance and Polymorphism
+
+### Key Concepts Practiced
+
+* Understanding the difference between **Has-A** and **Is-A** relationships
+* Reusing parent-class functionality through inheritance
+* Understanding constructor behavior between parent and child classes
+* Overriding parent methods in child classes
+* Using `super()` to access parent-class methods and constructors
+* Understanding Python's support for multiple inheritance
+* Understanding the **MRO (Method Resolution Order)** in multiple inheritance
+* Applying polymorphism through method overriding
+* Understanding operator overloading using special/dunder methods
+
+### Practice
+
+Practiced Python programs covering:
+
+* Aggregation
+* Parent-child class relationships
+* Constructor inheritance
+* Method overriding
+* `super()`
+* Different inheritance types
+* Multiple inheritance and the Diamond Problem
+* Polymorphism
+* Operator overloading
