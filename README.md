@@ -401,3 +401,36 @@ Practiced Python programs covering:
 * Multiple inheritance and the Diamond Problem
 * Polymorphism
 * Operator overloading
+Python OOP – Abstraction
+
+### Topics Covered
+- What is Abstraction?
+- Abstraction in Object-Oriented Programming
+- Bank Example – Class Hierarchy
+- Abstract Classes
+- `ABC` and `abstractmethod`
+- Implementing an Abstract Class
+- Practical `BankApp` example
+- Hiding implementation details and exposing essential functionality
+
+### Practice
+- Created an abstract `BankApp` class
+- Used abstract methods to define required functionality
+- Practiced implementing abstraction using Python's `abc` module
+
+### Key Concept
+> Abstraction means hiding implementation details and exposing only the essential functionality to the user.
+
+### Example
+```python
+from abc import ABC, abstractmethod
+
+class BankApp(ABC):
+
+    @abstractmethod
+    def withdraw(self):
+        pass
+
+    @abstractmethod
+    def deposit(self):
+        pass
