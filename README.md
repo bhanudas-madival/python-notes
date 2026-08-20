@@ -434,3 +434,82 @@ class BankApp(ABC):
     @abstractmethod
     def deposit(self):
         pass
+Topics Learned & Practiced
+Input/Output and file handling fundamentals
+Creating and writing to .txt files
+Writing single and multiple lines using write() and writelines()
+Understanding file modes:
+w — Write/overwrite
+a — Append
+r — Read
+b — Binary mode
+Understanding how open() works
+Reading files using:
+read()
+readline()
+Iterating through files line by line
+Reading large files efficiently
+Reading files character-by-character and in chunks
+Using the with context manager for safe file handling
+Working with file paths and saving files at specific locations
+Understanding file pointer position
+Using seek() and tell()
+Text files vs binary files
+Working with binary data
+File handling with different Python data types
+Serialization and Deserialization concepts
+JSON serialization/deserialization using:
+json.dump()
+json.load()
+Serialization/deserialization of:
+Tuples
+Nested dictionaries
+Custom objects
+Pickling using Python's pickle module
+Understanding Pickle vs JSON
+Practiced persistent data storage using files
+🧠 Key Takeaways
+File handling allows Python programs to persist and retrieve data from storage.
+The with open() pattern is preferred because it automatically closes the file.
+w mode overwrites existing content, while a preserves existing content and adds new data.
+For large files, processing data line-by-line or in chunks avoids loading the entire file into memory.
+seek() changes the file pointer position, while tell() returns its current position.
+JSON is useful for exchanging/storing structured, human-readable data.
+Pickle can serialize Python-specific objects but should only be used with trusted data.
+Serialization converts an in-memory object into a storable/transmittable representation.
+Deserialization reconstructs the object from the stored representation.
+🛠️ Practical Skills
+Python
+ ├── File I/O
+ │   ├── open()
+ │   ├── read()
+ │   ├── readline()
+ │   ├── write()
+ │   ├── writelines()
+ │   ├── seek()
+ │   └── tell()
+ │
+ ├── Context Manager
+ │   └── with open(...)
+ │
+ ├── Binary Files
+ │   └── rb / wb
+ │
+ └── Serialization
+     ├── JSON
+     │   ├── dump()
+     │   └── load()
+     └── Pickle
+🎯 DevOps Relevance
+
+File handling and serialization are important for automation and DevOps work. These concepts will be useful when building Python scripts that:
+
+Read and process configuration files
+Parse structured data such as JSON
+Generate logs and reports
+Process large files efficiently
+Store application state
+Work with API responses
+Automate infrastructure and operational tasks
+
+Progress: ✅ Python File Handling & Serialization Completed
