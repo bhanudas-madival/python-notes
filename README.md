@@ -513,3 +513,34 @@ Work with API responses
 Automate infrastructure and operational tasks
 
 Progress: ✅ Python File Handling & Serialization Completed
+Exception Handling
+
+### Topics Covered
+
+- Understanding errors and exceptions
+- Stages where errors can occur
+- Common Python errors:
+  - `SyntaxError`
+  - `IndexError`
+  - `ModuleNotFoundError`
+  - `KeyError`
+  - `TypeError`
+  - `ValueError`
+  - `NameError`
+  - `AttributeError`
+- What is an exception?
+- Why exception handling is required
+- `try` and `except`
+- Handling multiple exceptions
+- Handling specific exceptions
+- `try-except-else`
+- `try-except-else-finally`
+- Raising exceptions using `raise`
+- Creating custom exceptions
+- Practical exception-handling examples
+- Exception handling practice and doubt resolution
+
+### Practice
+
+Practiced handling different types of exceptions using `try`, `except`, `else`, and `finally` blocks. Also practiced raising exceptions and creating custom exception classes for application-specific errors.X
+
