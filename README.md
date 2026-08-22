@@ -544,3 +544,17 @@ Exception Handling
 
 Practiced handling different types of exceptions using `try`, `except`, `else`, and `finally` blocks. Also practiced raising exceptions and creating custom exception classes for application-specific errors.X
 
+Python Scope, Namespaces & Decorators
+
+- Learned **Namespaces** in Python
+- Studied **Scope** and the **LEGB Rule**
+  - Local
+  - Enclosing
+  - Global
+  - Built-in
+- Practiced **Local and Global Scope**
+- Learned about **Built-in Scope**
+- Practiced **Enclosing Scope** with nested functions
+- Learned the concept of **Decorators**
+- Practiced creating and using **Function Decorators**
+- Understood how decorators modify or extend function behavior
