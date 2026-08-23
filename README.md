@@ -558,3 +558,17 @@ Python Scope, Namespaces & Decorators
 - Learned the concept of **Decorators**
 - Practiced creating and using **Function Decorators**
 - Understood how decorators modify or extend function behavior
+Python Basic Programs
+
+### Practice Covered
+- Python syntax and program structure
+- Variables and data types
+- Input and output using `input()` and `print()`
+- Arithmetic and comparison operators
+- Conditional statements
+- Basic loops
+- Simple problem-solving programs
+- Hands-on practice with basic Python programs
+
+### Practice Goal
+Build a strong foundation in Python syntax and problem-solving before moving to advanced topics such as functions, modules, exception handling, file handling, OOP, and automation.
