@@ -587,3 +587,31 @@ Problems Practiced
 
 Focused on building problem-solving skills and understanding common algorithmic patterns using Python.
 
+## LeetCode Practice – 25 August 2026
+
+Today I practiced LeetCode problems **11–20**, covering arrays, strings, hashing, recursion/backtracking, linked lists, and stacks.
+
+### Problems Practiced
+- **11. Container With Most Water** – Medium
+- **12. Integer to Roman** – Medium
+- **13. Roman to Integer** – Easy
+- **14. Longest Common Prefix** – Easy
+- **15. 3Sum** – Medium
+- **16. 3Sum Closest** – Medium
+- **17. Letter Combinations of a Phone Number** – Medium
+- **18. 4Sum** – Medium
+- **19. Remove Nth Node From End of List** – Medium
+- **20. Valid Parentheses** – Easy
+
+### Key Topics Practiced
+- Two-pointer technique
+- Array and string manipulation
+- Hashing
+- Sorting
+- Backtracking
+- Linked-list traversal
+- Stack-based problem solving
+- Roman numeral conversion
+- Duplicate handling and edge cases
+
+**Progress:** Completed LeetCode Problems **1–20** 
