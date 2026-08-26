@@ -615,3 +615,42 @@ Today I practiced LeetCode problems **11–20**, covering arrays, strings, hashi
 - Duplicate handling and edge cases
 
 **Progress:** Completed LeetCode Problems **1–20** 
+## LeetCode Practice – Problems 20–30
+
+### Problems Practiced
+
+| #  | Problem                                            | Difficulty |
+| -- | -------------------------------------------------- | ---------- |
+| 20 | Valid Parentheses                                  | Easy       |
+| 21 | Merge Two Sorted Lists                             | Easy       |
+| 22 | Generate Parentheses                               | Medium     |
+| 23 | Merge k Sorted Lists                               | Hard       |
+| 24 | Swap Nodes in Pairs                                | Medium     |
+| 25 | Reverse Nodes in k-Group                           | Hard       |
+| 26 | Remove Duplicates from Sorted Array                | Easy       |
+| 27 | Remove Element                                     | Easy       |
+| 28 | Find the Index of the First Occurrence in a String | Easy       |
+| 29 | Divide Two Integers                                | Medium     |
+| 30 | Substring with Concatenation of All Words          | Hard       |
+
+### Topics Practiced
+
+* Stack-based parentheses validation
+* Linked list traversal and manipulation
+* Merging sorted linked lists
+* Recursion and backtracking
+* Heap/Priority Queue concepts
+* Swapping and reversing linked-list nodes
+* Array two-pointer techniques
+* String searching
+* Integer division without using multiplication, division, or modulo
+* Sliding window and hash-map techniques
+* Time and space complexity analysis
+
+### Key Takeaways
+
+* Strengthened understanding of **linked-list pointer manipulation**.
+* Practiced **stack and backtracking** patterns.
+* Worked with **two-pointer techniques** for array problems.
+* Improved problem-solving with **heap, hashing, and sliding-window** approaches.
+* Continued building consistency with LeetCode Easy, Medium, and Hard problems.
