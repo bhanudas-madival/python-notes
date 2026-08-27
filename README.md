@@ -654,3 +654,34 @@ Today I practiced LeetCode problems **11–20**, covering arrays, strings, hashi
 * Worked with **two-pointer techniques** for array problems.
 * Improved problem-solving with **heap, hashing, and sliding-window** approaches.
 * Continued building consistency with LeetCode Easy, Medium, and Hard problems.
+### LeetCode Progress
+
+**Problems Solved Today: 31–40**
+
+| #  | Problem                                                 | Difficulty |
+| -- | ------------------------------------------------------- | ---------- |
+| 31 | Next Permutation                                        | Medium     |
+| 32 | Longest Valid Parentheses                               | Hard       |
+| 33 | Search in Rotated Sorted Array                          | Medium     |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium     |
+| 35 | Search Insert Position                                  | Easy       |
+| 36 | Valid Sudoku                                            | Medium     |
+| 37 | Sudoku Solver                                           | Hard       |
+| 38 | Count and Say                                           | Medium     |
+| 39 | Combination Sum                                         | Medium     |
+| 40 | Combination Sum II                                      | Medium     |
+
+### Concepts Practiced
+
+* Array manipulation and in-place algorithms
+* Two-pointer and binary search techniques
+* Stack-based problem solving
+* Backtracking and recursion
+* Sudoku validation and constraint solving
+* Combinations and duplicate handling
+* Search in rotated sorted arrays
+* Permutation generation
+* String sequence generation
+
+**Total Problems Completed: 40**
+**Today's Progress: 10 Problems**
