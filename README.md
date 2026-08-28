@@ -685,3 +685,39 @@ Today I practiced LeetCode problems **11–20**, covering arrays, strings, hashi
 
 **Total Problems Completed: 40**
 **Today's Progress: 10 Problems**
+LeetCode Practice
+
+### Problems Solved: 41–50
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 41 | First Missing Positive | Hard |
+| 42 | Trapping Rain Water | Hard |
+| 43 | Multiply Strings | Medium |
+| 44 | Wildcard Matching | Hard |
+| 45 | Jump Game II | Medium |
+| 46 | Permutations | Medium |
+| 47 | Permutations II | Medium |
+| 48 | Rotate Image | Medium |
+| 49 | Group Anagrams | Medium |
+| 50 | Pow(x, n) | Medium |
+
+### Topics Practiced
+- Array manipulation
+- Two-pointer technique
+- Greedy algorithms
+- Backtracking
+- String manipulation
+- Dynamic programming / pattern matching
+- Matrix manipulation
+- Hashing
+- Recursion
+- Fast exponentiation
+
+### Progress
+- **Problems completed today:** 10
+- **Total problems covered:** 50
+- **Hard:** 3
+- **Medium:** 7
+
+Continuing to build problem-solving skills through consistent LeetCode practice.
