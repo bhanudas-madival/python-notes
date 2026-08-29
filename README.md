@@ -721,3 +721,19 @@ LeetCode Practice
 - **Medium:** 7
 
 Continuing to build problem-solving skills through consistent LeetCode practice.
+LeetCode Practice
+
+Practiced the following problems:
+
+- **51. N-Queens** – Backtracking
+- **52. N-Queens II** – Backtracking
+- **53. Maximum Subarray** – Kadane's Algorithm
+- **54. Spiral Matrix** – Matrix Traversal
+- **55. Jump Game** – Greedy
+- **56. Merge Intervals** – Sorting & Intervals
+- **57. Insert Interval** – Intervals
+- **58. Length of Last Word** – String Manipulation
+- **59. Spiral Matrix II** – Matrix Traversal
+- **60. Permutation Sequence** – Math & Permutations
+
+**Topics practiced:** Backtracking, Greedy Algorithms, Kadane's Algorithm, Matrix Traversal, Intervals, Sorting, Strings, and Permutations.
