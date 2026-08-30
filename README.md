@@ -737,3 +737,28 @@ Practiced the following problems:
 - **60. Permutation Sequence** – Math & Permutations
 
 **Topics practiced:** Backtracking, Greedy Algorithms, Kadane's Algorithm, Matrix Traversal, Intervals, Sorting, Strings, and Permutations.
+### Day — LeetCode 61–70
+
+Practiced the following LeetCode problems:
+
+- 61. Rotate List — Medium
+- 62. Unique Paths — Medium
+- 63. Unique Paths II — Medium
+- 64. Minimum Path Sum — Medium
+- 65. Valid Number — Hard
+- 66. Plus One — Easy
+- 67. Add Binary — Easy
+- 68. Text Justification — Hard
+- 69. Sqrt(x) — Easy
+- 70. Climbing Stairs — Easy
+
+#### Concepts Practiced
+- Linked Lists
+- Dynamic Programming
+- Grid-based DP
+- String parsing and validation
+- Array manipulation
+- Binary arithmetic
+- String formatting
+- Binary Search
+- Recursion / Dynamic Programming
