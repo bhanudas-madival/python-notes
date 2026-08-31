@@ -762,3 +762,17 @@ Practiced the following LeetCode problems:
 - String formatting
 - Binary Search
 - Recursion / Dynamic Programming
+### LeetCode 71–80
+
+| # | Problem | Difficulty | Main Concept |
+|---|---------|------------|--------------|
+| 71 | Simplify Path | Medium | Stack / String |
+| 72 | Edit Distance | Medium | Dynamic Programming |
+| 73 | Set Matrix Zeroes | Medium | Matrix / In-place |
+| 74 | Search a 2D Matrix | Medium | Binary Search |
+| 75 | Sort Colors | Medium | Two Pointers / Dutch National Flag |
+| 76 | Minimum Window Substring | Hard | Sliding Window / Hash Map |
+| 77 | Combinations | Medium | Backtracking |
+| 78 | Subsets | Medium | Backtracking |
+| 79 | Word Search | Medium | Backtracking / DFS |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers |
