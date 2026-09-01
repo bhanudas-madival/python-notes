@@ -776,3 +776,11 @@ Practiced the following LeetCode problems:
 | 78 | Subsets | Medium | Backtracking |
 | 79 | Word Search | Medium | Backtracking / DFS |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Two Pointers |
+
+- Linked-list manipulation
+- Monotonic stacks
+- Histogram and rectangle problems
+- Dynamic programming
+- Two-pointer techniques
+- Bit manipulation
+- Backtracking with duplicate handling
