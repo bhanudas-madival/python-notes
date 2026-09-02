@@ -784,3 +784,27 @@ Practiced the following LeetCode problems:
 - Two-pointer techniques
 - Bit manipulation
 - Backtracking with duplicate handling
+Problems Solved
+
+1. **91. Decode Ways** — Medium
+2. **92. Reverse Linked List II** — Medium
+3. **93. Restore IP Addresses** — Medium
+4. **94. Binary Tree Inorder Traversal** — Easy
+5. **95. Unique Binary Search Trees II** — Medium
+6. **96. Unique Binary Search Trees** — Medium
+7. **97. Interleaving String** — Medium
+8. **98. Validate Binary Search Tree** — Medium
+9. **99. Recover Binary Search Tree** — Medium
+10. **100. Same Tree** — Easy
+
+#### Concepts Practiced
+
+- Dynamic Programming
+- Linked Lists
+- Backtracking
+- Binary Trees
+- Binary Search Trees
+- Tree Traversal
+- Recursion
+- Inorder Traversal
+- Divide and Conquer
