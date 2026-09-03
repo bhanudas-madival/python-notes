@@ -808,3 +808,27 @@ Problems Solved
 - Recursion
 - Inorder Traversal
 - Divide and Conquer
+### Day 32 – Binary Trees (LeetCode 101–110)
+
+Solved/practiced the following problems:
+
+- 101. Symmetric Tree — Easy
+- 102. Binary Tree Level Order Traversal — Medium
+- 103. Binary Tree Zigzag Level Order Traversal — Medium
+- 104. Maximum Depth of Binary Tree — Easy
+- 105. Construct Binary Tree from Preorder and Inorder Traversal — Medium
+- 106. Construct Binary Tree from Inorder and Postorder Traversal — Medium
+- 107. Binary Tree Level Order Traversal II — Medium
+- 108. Convert Sorted Array to Binary Search Tree — Easy
+- 109. Convert Sorted List to Binary Search Tree — Medium
+- 110. Balanced Binary Tree — Easy
+
+#### Concepts Practiced
+- Binary tree traversal
+- BFS / Level-order traversal
+- DFS / Recursion
+- Zigzag traversal
+- Tree depth and height
+- Constructing trees from traversal arrays
+- Binary Search Trees
+- Checking whether a tree is balanced
