@@ -832,3 +832,20 @@ Solved/practiced the following problems:
 - Constructing trees from traversal arrays
 - Binary Search Trees
 - Checking whether a tree is balanced
+### Day 21 — LeetCode 111–120
+
+Practiced LeetCode problems **111 to 120**, covering binary tree traversal, path-based recursion, tree transformations, linked-list concepts, dynamic programming, and Pascal's Triangle.
+
+#### Problems Solved
+- 111. Minimum Depth of Binary Tree
+- 112. Path Sum
+- 113. Path Sum II
+- 114. Flatten Binary Tree to Linked List
+- 115. Distinct Subsequences
+- 116. Populating Next Right Pointers in Each Node
+- 117. Populating Next Right Pointers in Each Node II
+- 118. Pascal's Triangle
+- 119. Pascal's Triangle II
+- 120. Triangle
+
+**Progress:** 120 LeetCode problems completed 
