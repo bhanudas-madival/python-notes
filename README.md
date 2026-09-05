@@ -849,3 +849,28 @@ Practiced LeetCode problems **111 to 120**, covering binary tree traversal, path
 - 120. Triangle
 
 **Progress:** 120 LeetCode problems completed 
+### Day 13 — LeetCode Practice
+
+Solved the following problems:
+
+| # | Problem | Difficulty | Main Concept |
+|---|---|---|---|
+| 121 | Best Time to Buy and Sell Stock | Easy | Greedy / One Pass |
+| 122 | Best Time to Buy and Sell Stock II | Medium | Greedy |
+| 123 | Best Time to Buy and Sell Stock III | Hard | Dynamic Programming |
+| 124 | Binary Tree Maximum Path Sum | Hard | Binary Tree / DFS |
+| 125 | Valid Palindrome | Easy | Two Pointers / String |
+| 126 | Word Ladder II | Hard | BFS / Backtracking |
+| 127 | Word Ladder | Hard | BFS / Graph |
+| 128 | Longest Consecutive Sequence | Medium | Hash Set |
+| 129 | Sum Root to Leaf Numbers | Medium | DFS / Binary Tree |
+| 130 | Surrounded Regions | Medium | DFS / BFS / Graph |
+
+**Topics practiced:**
+- Greedy Algorithms
+- Dynamic Programming
+- Binary Trees & DFS
+- BFS & Graph Traversal
+- Backtracking
+- Two Pointers
+- Hash Sets
