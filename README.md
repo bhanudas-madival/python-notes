@@ -874,3 +874,22 @@ Solved the following problems:
 - Backtracking
 - Two Pointers
 - Hash Sets
+Problems Solved
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 131 | Palindrome Partitioning | 🟡 Medium |
+| 132 | Palindrome Partitioning II | 🔴 Hard |
+| 133 | Clone Graph | 🟡 Medium |
+| 134 | Gas Station | 🟡 Medium |
+| 135 | Candy | 🔴 Hard |
+
+### Topics Covered
+
+- Backtracking
+- Dynamic Programming
+- Graph
+- Greedy
+
+**Problems Solved Today:** 5  
+**Total Progress:** 135 Problems 🚀
